@@ -1,0 +1,1 @@
+firenado[redis, pexpect]==0.1.7.6
